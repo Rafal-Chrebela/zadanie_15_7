@@ -21,7 +21,11 @@ body {
 }
 
 button {
+<<<<<<< HEAD
   background: #607d8b;
+=======
+  background: #607d8b
+>>>>>>> a3a3ff3417708d840f3dd732ea48ef5232902476
   font-family: sans-serif;
   border: none;
   font-size: 40px;
