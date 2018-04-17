@@ -21,6 +21,7 @@ body {
 }
 
 button {
+  background: #607d8b;
   font-family: sans-serif;
   border: none;
   font-size: 40px;
@@ -31,4 +32,5 @@ button {
 
 button:hover {
   background: #1284bd;
+  cursor: pointer;
 }
